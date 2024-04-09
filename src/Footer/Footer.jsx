@@ -129,7 +129,7 @@ const Footer = () => {
             <img
               src="/assets/image/google.svg"
               alt="google-store-icon"
-              className="w-[10rem] sm:ml-[-7rem] md:ml-[0rem] lg:ml-[-2rem]"
+              className="w-[10rem] sm:ml-[-7rem] md:ml-[0rem] lg:ml-[-5rem]"
             />
           </div>
         </div>

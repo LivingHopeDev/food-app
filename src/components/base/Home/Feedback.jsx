@@ -31,10 +31,10 @@ const Feedback = () => {
             CEO, Bexon Agency
           </h3>
           <div className=" flex justify-center space-x-5 mt-5 mb-10">
-            <div className="rounded-full bg-[#E2E2E2] p-5">
+            <div className="rounded-full bg-[#E2E2E2] p-5 hover:bg-[#FF5331] hover:ease-in ease-out transition  duration-300">
               <img src="/assets/image/leftAngle.png" alt="" />
             </div>
-            <div className="rounded-full bg-[#FF5331] p-5">
+            <div className="rounded-full bg-[#FF5331] p-5 hover:bg-[#E2E2E2]  hover:ease-in ease-out transition  duration-300">
               <img src="/assets/image/rightAngle.png" alt="" />
             </div>
           </div>
