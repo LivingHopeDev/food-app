@@ -1,6 +1,6 @@
 ## FOOD ORDERING APP
 
-Live url: Click here (https://food-app-ruby-gamma.vercel.app/)
+Live url: Click https://food-app-ruby-gamma.vercel.app/
 
 ### HERO SECTION
 
