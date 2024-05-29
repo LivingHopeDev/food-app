@@ -6,7 +6,7 @@
 
 ### DISHES SECTION
 
-![](./public/assets/dishes.png)
+![](./public/assets/Dishes.png)
 
 ### ORDERING SECTION
 
